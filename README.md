@@ -10,37 +10,18 @@ Building high-performance backend systems, async pipelines, and scalable infrast
 
 ## Tech Stack
 
-**Languages & Core**
 - Python
 - FastAPI, Django
-
-**Databases**
-- PostgreSQL
-- Redis
-- SQLAlchemy
-
-**Architecture**
+- PostgreSQL, SQLAlchemy
+- Redis, Celery, RabbitMQ
 - Distributed systems
 - Microservices
 - Async architectures
 - System design
-
-**Infrastructure**
 - Docker
-- Kubernetes
-- AWS
+- Kubernetes, AWS
 - CI/CD
-
-**Observability**
-- Prometheus
-- Grafana
-- Sentry
-
-**Messaging**
-- RabbitMQ
-- Celery
-
-**Testing**
+- Prometheus, Grafana, Sentry
 - pytest
 
 ## Highlight Projects
