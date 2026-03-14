@@ -59,7 +59,8 @@ Multi-threaded C++ core with
 
 ### Team Task Tracker
 Track your team's tasks, visualize priorities, and get insights to improve your product. Simple and effective.
-Built with Django + PostgreSQL, featuring priority visualization and burndown charts to help teams ship faster.
+Built with Django + PostgreSQL, supporting concurrent users, background jobs (Celery), and real-time updates, featuring priority visualization and burndown charts to help teams ship faster.
+
 
 ### Audio Mistake Detector
 Automatically detects errors in voice-over recordings by comparing Whisper-transcribed speech with the original script. 
