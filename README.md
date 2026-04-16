@@ -39,13 +39,3 @@ Built with Django + PostgreSQL, supporting concurrent users, background jobs (Ce
 Automatically detects errors in voice-over recordings by comparing Whisper-transcribed speech with the original script. 
 Uses Levenshtein distance, audio overlap analysis, confidence scores, and timestamps to identify and classify mistakes.
 
-### Secure Messenger (Rust)
-End-to-end encrypted messaging system implementing asymmetric cryptography and a mixnet routing model to resist traffic interception and metadata analysis.
-
-Features:
-- mixnet routing
-- metadata protection
-- secure key exchange
-
-Used in two financial sector deployments (NDA).
-
